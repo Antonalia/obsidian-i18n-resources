@@ -11,5 +11,18 @@
         "created_at": "2026-10-11T15:14:25.159Z",
         "updated_at": "2026-10-11T15:14:25.159Z",
         "type": "plugin"
+    },
+    {
+        "id": "Z75A-ZJhyVR4mBt12hNFlKZ8fk2devPh",
+        "plugin": "agent-client",
+        "language": "zh-cn",
+        "version": "0.13.0",
+        "supported_versions": "0.13.0",
+        "title": "Agent Client",
+        "description": "Agent Client Localization & Tweaks",
+        "hash": "6f3736aa6f3736aa6f3736aa6f3736aa",
+        "created_at": "2026-10-11T15:14:49.226Z",
+        "updated_at": "2026-10-11T15:14:49.226Z",
+        "type": "plugin"
     }
 ]
